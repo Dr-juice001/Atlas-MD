@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
+<a href="https://github.com/Dr-juice001/Atlas-MD">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/Dr-juice001">FantoX</a> to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Atlas MD - The Future Is Here
 </h4>
@@ -15,31 +15,31 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
+  <a href="https://github.com/Dr-juice001/Atlas-MD/fork">
     <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
+  <a href="https://github.com/Dr-juice001/Atlas-MD/stargazers">
     <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
   </a>
 
 <br>
 
-<a href="https://github.com/FantoX001/Atlas-MD">
+<a href="https://github.com/Dr-juice001/Atlas-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
   
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<a href="https://github.com/Dr-juice001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
- <a href="https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md">
+ <a href="https://github.com/Dr-juice001/Atlas-MD/blob/main/LICENSE.md">
   
 <img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
 
 <p align="center">
 <a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
-<a href="https://github.com/FantoX001"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
+<a href="https://github.com/Dr-juice001"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
 </p>
 <br>
 
@@ -57,7 +57,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX001/Atlas-MD">
+    <a href="https://repl.it/github/Dr-juice001/Atlas-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -206,7 +206,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
     
 ## 🔶 Repl.it Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Dr-juice001/Atlas-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
@@ -215,7 +215,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`263779694908`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -237,7 +237,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 ## ⚛️ Heroku Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Dr-juice001/Atlas-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
@@ -246,7 +246,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`263779694908`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -266,7 +266,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
     
       
 ## 🔷 Railway Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Dr-juice001/Atlas-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version in Railway then that button will not help you. Go to Railway website and deploy github repo from there manually.
 - Those who are deploying through button: Put all necessary details there according to instructions given there.
@@ -276,7 +276,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`263779694908`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -295,7 +295,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
       
 ## ❇️ Koyeb Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Dr-juice001/Atlas-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through Quay.io hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
 - Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an put your URL).
@@ -305,7 +305,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`263779694908`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -324,7 +324,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
   
 ## 🪟 CMD / VS Code / Powershell / Terminal Deployment Method 
 
-- [Download Updated code](https://github.com/FantoX001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
+- [Download Updated code](https://github.com/Dr-juice001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
 - Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
 - Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
 
@@ -372,7 +372,7 @@ sudo apt install wget
 sudo apt install npm
 sudo apt install imagemagick
 
-git clone https://github.com/FantoX001/Atlas-MD
+git clone https://github.com/Dr-juice001/Atlas-MD
 
 ls
 cd Atlas-MD
@@ -395,7 +395,7 @@ npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/Dr-juice001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
@@ -472,7 +472,7 @@ npm start
       
 <br>
 
-- Read [PublicKeys.md](https://github.com/FantoX001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- Read [PublicKeys.md](https://github.com/Dr-juice001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
 - Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
@@ -508,7 +508,7 @@ npm start
 - Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
 - Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
 - Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Atlas comes with [MIT](https://github.com/Dr-juice001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 </details> 
     
@@ -518,7 +518,7 @@ npm start
 
 # 🧣 Contributors:
 
-- Check [Atlas Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors) list.
+- Check [Atlas Contributors](https://github.com/Dr-juice001/Atlas-MD/graphs/contributors) list.
 - Feel free to contribute in this project. I will merge your respected contribution after reviewing it.
     
 <br><br>
@@ -544,10 +544,5 @@ npm start
 ---
 <br>
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
-</h2>
 
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
-----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking
+
