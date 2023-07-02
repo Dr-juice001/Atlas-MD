@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/Dr-juice001">FantoX</a> to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/Dr-juice001">Dr Juice</a> to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Atlas MD - The Future Is Here
 </h4>
@@ -20,25 +20,25 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
     
     
   <a href="https://github.com/Dr-juice001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+    <img src="https://img.shields.io/github/stars/Dr-juice001/Atlas-MD?style=social">
   </a>
 
 <br>
 
 <a href="https://github.com/Dr-juice001/Atlas-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Dr-juice001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
   
 <p align="center">
-<a href="https://github.com/Dr-juice001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<a href="https://github.com/Dr-juice001"><img title="Owner" src="https://img.shields.io/badge/Owner-Dr Juice-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
  <a href="https://github.com/Dr-juice001/Atlas-MD/blob/main/LICENSE.md">
   
-<img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
+<img src='https://img.shields.io/github/license/Dr-juice001/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
 
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
+<a href="https://github.com/Dr-juice001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
 <a href="https://github.com/Dr-juice001"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
 </p>
 <br>
@@ -97,7 +97,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=Dr Juice&&name=atlas">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
@@ -121,7 +121,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Dr-juice001/Atlas-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -208,7 +208,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
       
 - [Fork Main Repo](https://github.com/Dr-juice001/Atlas-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
+- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Dr-juice001/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
   
 <br>
@@ -239,7 +239,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 - [Fork Main Repo](https://github.com/Dr-juice001/Atlas-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
+- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Dr-juice001/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
   
 <br>
